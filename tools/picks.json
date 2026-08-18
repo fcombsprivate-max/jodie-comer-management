@@ -1,0 +1,68 @@
+[
+  {
+    "filename": "hero.jpg",
+    "title": "File:The Bikeriders premiere.jpg",
+    "width": 2400,
+    "slot": "Home hero — cinematic wide"
+  },
+  {
+    "filename": "portrait.jpg",
+    "title": "File:Jodie Comer, The Bikeriders premiere.jpg",
+    "width": 1400,
+    "slot": "About — editorial portrait"
+  },
+  {
+    "filename": "profile.jpg",
+    "title": "File:Jodie Comer (cropped).jpeg",
+    "width": 1100,
+    "slot": "About — professional profile"
+  },
+  {
+    "filename": "prima-facie.jpg",
+    "title": "File:Jodie comer 2023 5.jpg",
+    "width": 900,
+    "slot": "Prima Facie feature — Tony Awards 2023"
+  },
+  {
+    "filename": "theatre.jpg",
+    "title": "File:Jodie comer 2023 1.jpg",
+    "width": 900,
+    "slot": "Home — theatre category"
+  },
+  {
+    "filename": "awards.jpg",
+    "title": "File:Jodie comer 2023 4.jpg",
+    "width": 900,
+    "slot": "Awards — recognition"
+  },
+  {
+    "filename": "film-1.jpg",
+    "title": "File:Danny Boyle, Jodie Comer et Aaron Taylor-Johnson 2025 1.jpg",
+    "width": 1600,
+    "slot": "Work — film (28 Years Later press, 2025)"
+  },
+  {
+    "filename": "film-2.jpg",
+    "title": "File:Danny Boyle, Jodie Comer et Aaron Taylor-Johnson 2025 2.jpg",
+    "width": 1600,
+    "slot": "Work — film secondary"
+  },
+  {
+    "filename": "film-3.jpg",
+    "title": "File:Jodie comer 2023 2.jpg",
+    "width": 900,
+    "slot": "Work — film tertiary"
+  },
+  {
+    "filename": "television.png",
+    "title": "File:Jodie Comer during an interview, August 2021.png",
+    "width": 1200,
+    "slot": "Work — television / interview 2021"
+  },
+  {
+    "filename": "film.jpg",
+    "title": "File:Jodie comer 2023 3.jpg",
+    "width": 900,
+    "slot": "Home — film category"
+  }
+]

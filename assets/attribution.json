@@ -1,0 +1,102 @@
+[
+  {
+    "filename": "hero.jpg",
+    "slot": "Home hero — cinematic wide",
+    "title": "The Bikeriders premiere.jpg",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "artist": "https://www.flickr.com/photos/drlovell/",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Bikeriders_premiere.jpg"
+  },
+  {
+    "filename": "portrait.jpg",
+    "slot": "About — editorial portrait",
+    "title": "Jodie Comer, The Bikeriders premiere.jpg",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "artist": "https://www.flickr.com/photos/drlovell/",
+    "source": "https://commons.wikimedia.org/wiki/File:Jodie_Comer,_The_Bikeriders_premiere.jpg"
+  },
+  {
+    "filename": "profile.jpg",
+    "slot": "About — professional profile",
+    "title": "Jodie Comer (cropped).jpeg",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "artist": "https://www.flickr.com/photos/drlovell/",
+    "source": "https://commons.wikimedia.org/wiki/File:Jodie_Comer_(cropped).jpeg"
+  },
+  {
+    "filename": "prima-facie.jpg",
+    "slot": "Prima Facie feature — Tony Awards 2023",
+    "title": "Jodie comer 2023 5.jpg",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "artist": "The Tony Awards",
+    "source": "https://commons.wikimedia.org/wiki/File:Jodie_comer_2023_5.jpg"
+  },
+  {
+    "filename": "theatre.jpg",
+    "slot": "Home — theatre category",
+    "title": "Jodie comer 2023 1.jpg",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "artist": "The Tony Awards",
+    "source": "https://commons.wikimedia.org/wiki/File:Jodie_comer_2023_1.jpg"
+  },
+  {
+    "filename": "awards.jpg",
+    "slot": "Awards — recognition",
+    "title": "Jodie comer 2023 4.jpg",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "artist": "The Tony Awards",
+    "source": "https://commons.wikimedia.org/wiki/File:Jodie_comer_2023_4.jpg"
+  },
+  {
+    "filename": "film-1.jpg",
+    "slot": "Work — film (28 Years Later press, 2025)",
+    "title": "Danny Boyle, Jodie Comer et Aaron Taylor-Johnson 2025 1.jpg",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "artist": "ManoSolo13241324",
+    "source": "https://commons.wikimedia.org/wiki/File:Danny_Boyle,_Jodie_Comer_et_Aaron_Taylor-Johnson_2025_1.jpg"
+  },
+  {
+    "filename": "film-2.jpg",
+    "slot": "Work — film secondary",
+    "title": "Danny Boyle, Jodie Comer et Aaron Taylor-Johnson 2025 2.jpg",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "artist": "ManoSolo13241324",
+    "source": "https://commons.wikimedia.org/wiki/File:Danny_Boyle,_Jodie_Comer_et_Aaron_Taylor-Johnson_2025_2.jpg"
+  },
+  {
+    "filename": "film-3.jpg",
+    "slot": "Work — film tertiary",
+    "title": "Jodie comer 2023 2.jpg",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "artist": "The Tony Awards",
+    "source": "https://commons.wikimedia.org/wiki/File:Jodie_comer_2023_2.jpg"
+  },
+  {
+    "filename": "television.png",
+
+    "slot": "Work — television / interview 2021",
+    "title": "Jodie Comer during an interview, August 2021.png",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "artist": "Lega Nerd",
+    "source": "https://commons.wikimedia.org/wiki/File:Jodie_Comer_during_an_interview,_August_2021.png"
+  },
+  {
+    "filename": "film.jpg",
+    "slot": "Home — film category",
+    "title": "Jodie comer 2023 3.jpg",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "artist": "The Tony Awards",
+    "source": "https://commons.wikimedia.org/wiki/File:Jodie_comer_2023_3.jpg"
+  }
+]
